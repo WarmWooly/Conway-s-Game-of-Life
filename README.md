@@ -1,2 +1,2 @@
-# Conway-s-Game-of-Life
-Conway's Game of Life programmed in C.
+# Conway's Game of Life
+I decided to challenge myself while learning C to replicate the well-known cellular automaton Conway's Game of Life. It was definitely an interesting challenge, but I had fun making it and adding features that allowed it to load pre-determined starting states, stop at a certain generation, and alter the game's rules. I may update this repo in the future with C++ and/or Pseudo-C implementations as additional practice.
