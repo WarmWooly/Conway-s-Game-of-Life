@@ -17,7 +17,7 @@ Purpose: It's just Conway's Game of Life
 #define SIMULATION_SPEED_MODIFIER 1.0 // A user-friendly modifier value for the simulation speed (1.0 by default)
 #define BOARD_HEIGHT 10 // Height of the game board (10 by default; 35 for fullscreen)
 #define BOARD_WIDTH 10 // Width of the game board (10 by default; 66 for fullscreen)
-#define SHOW_DEAD_CELLS 1 // Shows dead cells with '░' if 1 or not if 0 (0 by default)
+#define SHOW_DEAD_CELLS 0 // Shows dead cells with '░' if 1 or not if 0 (0 by default)
 #define DISPLAY_STATS 1 // Displays the simulation stats if 1 or not if 0 (1 by default)
 #define MAX_SIMULATION_STEPS -1 // Number of steps when the simulation ends, -1 for no limit (-1 by default)
 #define READ_FROM_FILE 0 // Determines if a data file is read to set the starting conditions if 1 or not if 0 (0 by default)
